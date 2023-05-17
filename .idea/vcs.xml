@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntroductionReact/crud-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Router_CRUD_Axios_Formik_API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Router_CRUD_Axios_Formik_API/BE_Module5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Router_CRUD_Axios_Formik_API/api-axios" vcs="Git" />
+  </component>
+</project>
